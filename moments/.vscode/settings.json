@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\wharr\\Desktop\\myservers\\gson\\gson.jar",
+        "c:\\Users\\wharr\\Desktop\\myservers\\h2\\h2.jar",
+        "c:\\Users\\wharr\\Desktop\\myservers\\jetty\\jetty-all.jar"
+    ]
+}
